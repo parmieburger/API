@@ -1,0 +1,2 @@
+# API
+Rails 5 JSONAPI
